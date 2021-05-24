@@ -1,4 +1,4 @@
-<h1 align="center"> PROJETO RELÓGIO INTELIGENTE </h1>
+<h1 align="center"> PROJETO: RELÓGIO INTELIGENTE </h1>
 <H3 align="center"> MENU DE ACESSOS </h3>
 
 <p align="center">
