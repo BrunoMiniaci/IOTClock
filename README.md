@@ -4,7 +4,7 @@
 <p align="center">
   <a href=" "> Código do Projeto</a> •
   <a href=" "> Diagrama do Projeto</a> •
-  <a href=" "> Código</a> Fluxograma do Projeto </a>•
+  <a href=" "> Fluxograma do Projeto </a>•
   <a href=" "> Vídeo do Projeto</a> •
   
 </p>
