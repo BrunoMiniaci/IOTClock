@@ -1,0 +1,51 @@
+#include <Ethernet.h> // shield eth
+
+#include <Servo.h> //servo lib
+
+const int buzzer = 12;
+const int prec = 11;
+
+Servo servoH; //define servo horas
+Servo servoM; //define servo minutos
+
+
+
+void setup() {
+//configurar servos
+  servoH.attach(2); 
+  servoM.attach(5); 
+//configurar sensor pid
+  pinMode(prec, INPUT);
+
+ //configurar pino do buzzer
+ pinMode(buzzer, OUTPUT);
+ 
+
+}
+
+void loop() {
+  int i = 0;
+  int n = 0;
+
+for ( i = 0; i<24; i++){
+  if (i == 23) {i=0;}
+  for ( n = 0; n <60; n++){
+  int hora = i;
+  int minu = n;
+  if (n == 0){
+  tone(buzzer,261);
+    // Espera um tempo para Desativar
+    delay(200);
+    //Desativa o buzzer
+    noTone(buzzer); 
+  }
+  int grauHora = hora * 15; // converte a hora em graus 180/ 12 = 15;
+  int grauMin = minu * 3; // converte minutos em graus 180/60 = 3;
+  // step one revolution  in one direction:
+  servoH.write(grauHora);
+  servoM.write(grauMin);
+  delay(1000);
+  }
+
+}
+}
