@@ -8,6 +8,6 @@
   <a href="https://github.com/BrunoMiniaci/IOTClock/blob/main/Materiais%20e%20M%C3%A9todos.pdf"> Materiais utilizados </a>•
   <a href=" "> Vídeo do Projeto</a> 
   
-  <img src=”https://github.com/BrunoMiniaci/IOTClock/blob/main/Imagem%20do%20Projeto.jpg”>
+  <img src=”https://github.com/BrunoMiniaci/IOTClock/blob/main/Imagem%20do%20Projeto.jpg?raw” height="150" width="512">
   
 </p>
