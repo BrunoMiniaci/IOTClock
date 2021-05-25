@@ -9,6 +9,7 @@
   <a href=" "> Vídeo do Projeto</a> 
  
   <ul>
-  <img src="https://i.imgur.com/iJpRkUO.jpg" width="512" height="200" > 
+  <p align="center">
+  <img src="https://i.imgur.com/iJpRkUO.jpg" width="512" height="400" > 
   
 </p>
