@@ -3,8 +3,9 @@
 
 <p align="center">
   <a href=" "> Código do Projeto</a> •
-  <a href=" "> Diagrama do Projeto</a> •
-  <a href=" "> Fluxograma do Projeto </a>•
+  <a href="https://github.com/BrunoMiniaci/IOTClock/blob/main/Diagrama.png"> Diagrama do Projeto</a> •
+  <a href="https://github.com/BrunoMiniaci/IOTClock/blob/main/Fluxograma.png"> Fluxograma do Projeto </a>•
+  <a href=" "> Materiais utilizados </a>•
   <a href=" "> Vídeo do Projeto</a> 
   
 </p>
